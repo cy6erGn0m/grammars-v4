@@ -53,6 +53,7 @@
 		<module>javadoc</module>
 		<module>jpa</module>
 		<module>json</module>
+        <module>kotlin</module>
 		<module>kuka</module>
 		<module>less</module>
 		<module>logo</module>
